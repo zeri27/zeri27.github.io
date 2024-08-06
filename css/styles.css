@@ -131,6 +131,7 @@ nav h1:hover {
     justify-content: space-between;
     height: 100%;
     text-align: center;
+    overflow: auto;
 }
 
 .project-details p {
@@ -153,9 +154,9 @@ nav h1:hover {
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 4px;
+    margin-bottom: 4px;
 }
 
-
 .project-details a:hover {
-    background-color: #3e8e41;
+    background-color: #2cca32;
 }
